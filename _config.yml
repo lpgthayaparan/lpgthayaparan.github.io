@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Leann Thayaparan"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Operations Research PhD Candidate"
   location         : "Operations Research Center, MIT"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/leann-thayaparan/"
+  linkedin         : "leann-thayaparan/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
