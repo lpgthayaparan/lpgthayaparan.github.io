@@ -13,7 +13,7 @@ Hello! I am a fourth-year PhD at the Operations Research Center at MIT, working 
 My interests include:
 <li>Sustainable Operations</li><li>Operations Management</li><li>Optimization</li><li>Machine Learning</li>
 
-## Locations of key files/directories
+## Publications
 
 \*Names of authors in publications are listed by alphabetical order
 
