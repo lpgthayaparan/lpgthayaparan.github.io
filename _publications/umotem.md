@@ -1,6 +1,6 @@
 ---
 title: "UMOTEM: Upper Bounding Method for Optimizing over Tree Ensemble Models"
-collection: wip
+collection: publications
 permalink: /publication/umotem
 excerpt: '2022 - Finalist, RMP Jeff McGill Student Paper Award'
 venue: 'soon to be submitted to Management Science'
