@@ -2,7 +2,8 @@
 title: "UMOTEM: Upper Bounding Method for Optimizing over Tree Ensemble Models"
 collection: publications
 permalink: /publication/umotem
-excerpt: '2022 - Finalist, RMP Jeff McGill Student Paper Award'
+excerpt: '
+* 2022 - Finalist, RMP Jeff McGill Student Paper Award'
 venue: 'soon to be submitted to Management Science'
 date: 2022-12-16
 citation: 'Perakis, G., Thayaparan L., Boroujeni S., Panchamgam K., and Schubertruegmer R. (2022). UMOTEM: Upper Bounding Method for Optimizing over Tree Ensemble Models. soon to be submitted to Management Science'
