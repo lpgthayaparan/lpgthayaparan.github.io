@@ -3,7 +3,7 @@ title: "COVID-19: A multiwave SIR-based model for learning waves"
 collection: publications
 permalink: /publication/multiwave_sir
 excerpt: '2021 - Second Place, INFORMS Service Science Best Student Paper Award (INFORMS Annual Meeting), Preliminary version in 2021 MSOM Healthcare Operations SIG'
-venue: 'soon to be submitted to Management Science'
+venue: 'Production and Operations Management'
 date: 2022-01-29
 citation: 'Perakis, G., Singhvi, D., Skali Lami, O., & Thayaparan, L. (2022). COVID-19: A multiwave SIR-based model for learning waves. Production and Operations Management.'
 ---
