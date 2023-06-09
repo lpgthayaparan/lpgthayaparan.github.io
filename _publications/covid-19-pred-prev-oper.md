@@ -2,13 +2,11 @@
 title: "COVID-19: Prediction, prevalence, and the operations of vaccine allocation"
 collection: publications
 permalink: /publication/covid19_pred_prev_operations
-excerpt: "
+excerpt: '
 * 2021 - Winner, ICSS Best Conference Paper Competition  
-
 * 2021 - Finalist, Doing Good with Good OR Competition (Skali Lami, 21)  
-
 * 2021 - Finalist, Public Sector Operations Research Best Paper Award  
-"
+'
 venue: 'Manufacturing & Service Operations Management'
 date: 2022-12-15
 citation: 'Bennouna, A., Joseph, J., Nze-Ndong, D., Perakis, G., Singhvi, D., Lami, O. S., Spantidakis, Y., Thayaparan, L., & Tsiourvas, A. (2022). COVID-19: Prediction, prevalence, and the operations of vaccine allocation. Manufacturing & Service Operations Management.'
