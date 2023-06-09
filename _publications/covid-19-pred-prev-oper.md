@@ -4,7 +4,9 @@ collection: publications
 permalink: /publication/covid19_pred_prev_operations
 excerpt: '
 * 2021 - Winner, ICSS Best Conference Paper Competition  
+
 * 2021 - Finalist, Doing Good with Good OR Competition (Skali Lami, 21)  
+
 * 2021 - Finalist, Public Sector Operations Research Best Paper Award  
 '
 venue: 'Manufacturing & Service Operations Management'
