@@ -3,7 +3,7 @@ title: "The Role of Driver Behavior in Moving the Electric Grid to Zero Emission
 collection: publications
 permalink: /publication/electric_vehicles
 excerpt: ''
-venue: 'work in progress'
+venue: 'soon to be submitted to Operations Research, 2023'
 date: 2023-01-01
 citation: 'Perakis G., and Thayaparan L. (2022). Optimizing Electric Vehicle Batteries to Act as Distributed Renewable Energy Storage. work in progress.'
 ---
