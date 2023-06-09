@@ -39,12 +39,11 @@ method for optimizing over tree ensemble Models] (https://papers.ssrn.com/sol3/p
 
 ## Honors
 
-*ORC Best Student Paper Award 2023
-*Honorary Mention of the POMS College of SCM Best Student Paper Competition 2023
-*Finalist of the Jeff McGill Student Paper Award 2022
-*Second Place in Service Science Best Student Paper Award 2021
-*Accepted into MSOM SIG Healthcare 2021
-*ICSS Best Conference Paper Award 2021
-*Finalist of the Doing Good with Good OR Competition 2021
-*Finalist of the Public Sector Operations Research Best Paper Competition 2021
+* ORC Best Student Paper Award 2023
+* Honorary Mention of the POMS College of SCM Best Student Paper Competition 2023
+* Finalist of the Jeff McGill Student Paper Award 2022
+* Second Place in Service Science Best Student Paper Award 2021
+* ICSS Best Conference Paper Award 2021
+* Finalist of the Doing Good with Good OR Competition 2021
+* Finalist of the Public Sector Operations Research Best Paper Competition 2021
 
