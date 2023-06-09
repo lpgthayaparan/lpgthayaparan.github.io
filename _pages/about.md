@@ -27,10 +27,24 @@ My interests include:
 
 **Works in Progress**
 
-* Georgia Perakis (MIT), Leann Thayaparan (MIT), Setareh Boroujeni (Oracle Retail Business Unit), Kiran Panchamgam (Oracle Retail Business Unit), and Rebecca Schubertruegmer (Oracle Retail Business Unit) (2022). [](https://leannthayaparan.netlify.app/publication/umotem-upper-bounding-method-for-optimizing-over-tree-ensemble-models/)
-* Georgia Perakis and Leann Thayaparan (2022). [Optimizing Electric Vehicle Batteries to Act as Distributed Renewable Energy Storage](https://leannthayaparan.netlify.app/publication/optimizing-electric-vehicles-batteries-to-act-as-dis-tributed-renewable-energy-storage/). work in progress.
-* Tamar Cohen-Hillel, Georgia Perakis, Ionnis Spantidakis, and Leann Thayaparan (2022). [The SAFE Method for Feature Reduction and Prediction](https://leannthayaparan.netlify.app/publication/the-safe-method-for-feature-reduction-and-prediction/). soon to be submitted to Journal of Machine Learning.
+* Georgia Perakis (MIT), Leann Thayaparan (MIT), Setareh Boroujeni (Oracle Retail Business Unit), Kiran Panchamgam (Oracle Retail Business Unit), and Rebecca Schubertruegmer (Oracle Retail Business Unit) (2022). [UMOTEM: Upper bounding
+method for optimizing over tree ensemble Models] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341). submitted to Management Science.
+* Georgia Perakis and Leann Thayaparan (2022). [The role of electric vehicle driver behavior in moving to zero emissions]. soon to be submitted to Operations Research
+* Tamar Cohen-Hillel, Georgia Perakis, Ionnis Spantidakis, and Leann Thayaparan (2022). [The SAFE Method for Feature Reduction and Prediction]. soon to be submitted to Journal of Machine Learning.
 
 **Refereed Conference Proceedings Paper**
 
 * Bennouna, Mohammed Amine, et al. "The Power of Analytics in Epidemiology for COVID 19." *INFORMS International Conference on Service Science*. Springer, Cham, 2021.
+
+
+## Honors
+
+*ORC Best Student Paper Award 2023
+*Honorary Mention of the POMS College of SCM Best Student Paper Competition 2023
+*Finalist of the Jeff McGill Student Paper Award 2022
+*Second Place in Service Science Best Student Paper Award 2021
+*Accepted into MSOM SIG Healthcare 2021
+*ICSS Best Conference Paper Award 2021
+*Finalist of the Doing Good with Good OR Competition 2021
+*Finalist of the Public Sector Operations Research Best Paper Competition 2021
+
