@@ -3,6 +3,8 @@ title: "UMOTEM: Upper Bounding Method for Optimizing over Tree Ensemble Models"
 collection: publications
 permalink: /publication/umotem
 excerpt: '
+* 2023 - ORC Best Student Paper Award 
+* 2023 - Honorary Mention of the POMS College of SCM Best Student Paper Competition 
 * 2022 - Finalist, RMP Jeff McGill Student Paper Award'
 venue: 'submitted to Management Science'
 date: 2022-12-16
