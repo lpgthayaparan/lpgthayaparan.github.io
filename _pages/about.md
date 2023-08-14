@@ -41,13 +41,7 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 
 * Bennouna, Mohammed Amine, et al. "The Power of Analytics in Epidemiology for COVID 19." *INFORMS International Conference on Service Science*. Springer, Cham, 2021.
 
-## Professional Experience 
-* General Motors, Masters Capstone Internship, February 2019 - August 2019
-* McKinsey Company, Senior Analytics Fellow , September 2016 - May 2018
-
-
 ## Honors
-
 * ORC Best Student Paper Award 2023
 * Honorary Mention of the POMS College of SCM Best Student Paper Competition 2023
 * Finalist of the Jeff McGill Student Paper Award 2022
@@ -55,4 +49,17 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * ICSS Best Conference Paper Award 2021
 * Finalist of the Doing Good with Good OR Competition 2021
 * Finalist of the Public Sector Operations Research Best Paper Competition 2021
+
+## Teaching Experience
+15.730 Data, Models, and Decisions for Executive MBAs
+
+
+## Professional Experience 
+**General Motors**, February 2019 - August 2019
+Masters Capstone Internship
+*Analyzed and forecasted traffic flow patterns for General Motor's Zero Congestion Initiatives
+
+* McKinsey Company, Senior Analytics Fellow , September 2016 - May 2018
+
+
 
