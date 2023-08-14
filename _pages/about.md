@@ -57,10 +57,12 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 
 ## Professional Experience 
 **General Motors**, February 2019 - August 2019 \\
-Masters Capstone Internship
-*Analyzed and forecasted traffic flow patterns for General Motor's Zero Congestion Initiatives
+Masters Capstone Internship\\
+* Analyzed and forecasted traffic flow patterns for General Motor's Zero Congestion Initiatives
 
-* McKinsey Company, Senior Analytics Fellow , September 2016 - May 2018
+**McKinsey Company**, September 2016 - May 2018 \\
+Senior Analytics Fellow \\
+* Helped firms expand their analytical toolkits by providing expertise on data science capabilities development
 
 
 
