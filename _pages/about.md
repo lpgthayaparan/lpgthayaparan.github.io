@@ -13,6 +13,9 @@ Hello! I am a fourth-year PhD at the Operations Research Center at MIT, working 
 My interests include:
 <li>Sustainable Operations</li><li>Operations Management</li><li>Optimization</li><li>Machine Learning</li>
 
+Contact me: lpgt@mit.edu
+
+
 ## Publications
 
 \*Names of authors in publications are listed by alphabetical order
