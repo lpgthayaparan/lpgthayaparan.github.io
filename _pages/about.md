@@ -49,13 +49,14 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * ICSS Best Conference Paper Award 2021
 * Finalist of the Doing Good with Good OR Competition 2021
 * Finalist of the Public Sector Operations Research Best Paper Competition 2021
+* MIT Sloan School of Management Dean?s Fellowship for outstanding academic record, personal achievements and professional promise, 2018
 
 ## Teaching Experience
 15.730 Data, Models, and Decisions for Executive MBAs
 
 
 ## Professional Experience 
-**General Motors**, February 2019 - August 2019
+**General Motors**, February 2019 - August 2019 \\
 Masters Capstone Internship
 *Analyzed and forecasted traffic flow patterns for General Motor's Zero Congestion Initiatives
 
