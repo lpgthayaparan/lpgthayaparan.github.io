@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am a final-year PhD at the Operations Research Center at MIT, working with Professor Georgia Perakis. My research focuses on the intersection of operations management, optimization and machine learning in the areas of sustainability and retail. I work on a variety of problems, focusing on consumer behavior as it relates to electric vehicles, pricing and COVID-19 forecasting
 
-**I am on the Fall 2023 Academic Job market!**
+**I am on the Fall 2023 Academic Job market!** I will be presenting at INFORMS 2024 during TD08: Digital Platforms: New Challenges and Directions on Tuesday, Oct 17, 2:15-3:30 PM. 
 
 Contact me: lpgt@mit.edu
 
@@ -56,6 +56,14 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * Teaching Assistant, Spring 2021, Rating: 6.5/7 
 * Teaching Assistant, Spring 2022, Rating: 6.6/7 
 * Material Development, Spring 2023
+* EMBA tutor, Spring 2023
+
+15.089 Analytics Capstone for Masters of Business Analytics
+* PhD Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2021, project title: *Electric Vehicle as an Energy Reservoir: Vehicle-to-Grid (V2G)*
+* PhD Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Enabling Electric Vehicle Adoption: Identifying Charging Station Malfunctions*
+* PhD Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Personalized Marketing Strategies for OnStar Customers*
+* PhD Advisor to Masters' Capstone Project in collaboration with Wayfair, Spring/Summer 2023, project title: *Improving Trained Model Calibration through Machine Learning*
+* PhD Advisor to Masters' Capstone Project in collaboration with Macy's, Spring/Summer 2023, project title: *I'm Just Browsing: Predicting the Value of Prospective Customers*
 
 ## Professional Experience 
 **General Motors**, February 2019 - August 2019 \\
