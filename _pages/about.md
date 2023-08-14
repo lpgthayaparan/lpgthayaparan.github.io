@@ -53,16 +53,16 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 
 ## Teaching Experience
 15.730 Data, Models, and Decisions for Executive MBAs
-
+* Teaching Assistant, Spring 2021, Rating: 6.5/7 
+* Teaching Assistant, Spring 2022, Rating: 6.6/7 
+* Material Development, Spring 2023
 
 ## Professional Experience 
 **General Motors**, February 2019 - August 2019 \\
-Masters Capstone Internship\\
-* Analyzed and forecasted traffic flow patterns for General Motor's Zero Congestion Initiatives
+Masters Capstone Internship
 
 **McKinsey Company**, September 2016 - May 2018 \\
-Senior Analytics Fellow \\
-* Helped firms expand their analytical toolkits by providing expertise on data science capabilities development
+Senior Analytics Fellow
 
 
 
