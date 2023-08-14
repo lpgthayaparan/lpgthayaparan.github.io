@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am a final-year PhD at the Operations Research Center at MIT, working with Professor Georgia Perakis. My research focuses on the intersection of operations management, optimization and machine learning in the areas of sustainability and retail. I work on a variety of problems, focusing on consumer behavior as it relates to electric vehicles, pricing and COVID-19 forecasting
 
-I am on the Fall 2023 Academic Job market. 
+**I am on the Fall 2023 Academic Job market!**
 
 Contact me: lpgt@mit.edu
 
@@ -40,6 +40,9 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 **Refereed Conference Proceedings Paper**
 
 * Bennouna, Mohammed Amine, et al. "The Power of Analytics in Epidemiology for COVID 19." *INFORMS International Conference on Service Science*. Springer, Cham, 2021.
+
+## Work Experience 
+
 
 
 ## Honors
