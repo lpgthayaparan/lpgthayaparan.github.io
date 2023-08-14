@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a fourth-year PhD at the Operations Research Center at MIT, working with Professor Georgia Perakis. My research focuses on the intersection of operations management, optimization and machine learning in the areas of sustainability and retail. I work on a variety of problems, focusing on consumer behavior as it relates to electric vehicles, pricing and COVID-19 forecasting
+Hello! I am a final-year PhD at the Operations Research Center at MIT, working with Professor Georgia Perakis. My research focuses on the intersection of operations management, optimization and machine learning in the areas of sustainability and retail. I work on a variety of problems, focusing on consumer behavior as it relates to electric vehicles, pricing and COVID-19 forecasting
+
+I am on the Fall 2023 Academic Job market. 
 
 Contact me: lpgt@mit.edu
 
