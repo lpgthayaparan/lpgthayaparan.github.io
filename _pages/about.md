@@ -22,8 +22,7 @@ My interests include:
 
 \*Names of authors in publications are listed by alphabetical order
 
-**Papers Accepted or Under Review**
-
+* Georgia Perakis and Leann Thayaparan (2022). The role of electric vehicle driver behavior in moving to zero emissions. soon to be submitted to Operations Research
 * Georgia Perakis (MIT), Leann Thayaparan (MIT), Setareh Boroujeni (Oracle Retail Business Unit), Kiran Panchamgam (Oracle Retail Business Unit), and Rebecca Schubertruegmer (Oracle Retail Business Unit) (2022). [UMOTEM: Upper bounding
 method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341). under review at Management Science.
 * Lennart Baardman, Rares Cristian, Georgia Perakis, Divya Singhvi, Omar Skali Lami, and Leann Thayaparan (2022). [The Role of Optimization in Some Recent Advances in Data-Driven Decision-Making](https://link.springer.com/article/10.1007/s10107-022-01874-9). Mathematical Programming: 1-35.
@@ -31,13 +30,8 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * Estee Y Cramer, Evan L Ray, Velma K Lopez, Johannes Bracher, Andrea Brennen, Alvaro J Castro Rivadeneira, Aaron Gerding, Tilmann Gneiting, Katie H House, Yuxin Huang, and others (2022). [Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US](`). Proceedings of the National Academy of Sciences 119.15.
 * Bennouna, Mohammed Amine, et al. "The Power of Analytics in Epidemiology for COVID 19." *INFORMS International Conference on Service Science*. Springer, Cham, 2021.
 * Mohammed Amine Bennouna, David Alexandre Nze Ndong, Georgia Perakis, Divya Singhvi, Omar Skali Lami, Ioannis Spantidakis, Leann Thayaparan, and Asterios Tsiourvas (2023). [COVID-19: Prediction, Prevalence, and the Operations of Vaccine Allocation](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.1160). Manufacturing & Service Operations Management 25.3: 1013-1032.
-* Leann Thayaparan (2016). [An Analysis of Television Show Viewership Growth through SIR Virus Models](https://dataspace.princeton.edu/handle/88435/dsp01fq977x201).
-
-**Works in Progress**
-
-* Georgia Perakis and Leann Thayaparan (2022). The role of electric vehicle driver behavior in moving to zero emissions. soon to be submitted to Operations Research
 * Tamar Cohen-Hillel, Georgia Perakis, Ionnis Spantidakis, and Leann Thayaparan (2022). The SAFE Method for Feature Reduction and Prediction. soon to be submitted to Journal of Machine Learning.
-
+* Leann Thayaparan (2016). [An Analysis of Television Show Viewership Growth through SIR Virus Models](https://dataspace.princeton.edu/handle/88435/dsp01fq977x201).
 
 ## Honors
 * ORC Best Student Paper Award 2023
