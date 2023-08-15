@@ -22,7 +22,7 @@ My interests include:
 
 \*Names of authors in publications are listed by alphabetical order
 
-**Papers or Under Review**
+**Papers Accepted or Under Review**
 
 * Georgia Perakis (MIT), Leann Thayaparan (MIT), Setareh Boroujeni (Oracle Retail Business Unit), Kiran Panchamgam (Oracle Retail Business Unit), and Rebecca Schubertruegmer (Oracle Retail Business Unit) (2022). [UMOTEM: Upper bounding
 method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341). under review at Management Science.
@@ -37,8 +37,6 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 
 * Georgia Perakis and Leann Thayaparan (2022). The role of electric vehicle driver behavior in moving to zero emissions. soon to be submitted to Operations Research
 * Tamar Cohen-Hillel, Georgia Perakis, Ionnis Spantidakis, and Leann Thayaparan (2022). The SAFE Method for Feature Reduction and Prediction. soon to be submitted to Journal of Machine Learning.
-
-**Refereed Conference Proceedings Paper**
 
 
 ## Honors
