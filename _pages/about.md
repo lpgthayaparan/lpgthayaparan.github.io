@@ -57,6 +57,15 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * Advisor to Masters' Capstone Project in collaboration with Wayfair, Spring/Summer 2023, project title: *Improving Trained Model Calibration through Machine Learning*
 * Advisor to Masters' Capstone Project in collaboration with Macy's, Spring/Summer 2023, project title: *I'm Just Browsing: Predicting the Value of Prospective Customers*
 
+## Grants and Patents
+**Industry Collaborations and Grants**
+* Co-wrote research proposal for industry collaborator General Motors. Received funding for three years of a doctoral student and a masters student
+* Co-wrote research proposal for industry collaborator Oracle Retail, submitted to the External Research Office, which reviews grants and makes funding decisions. Received funding for two years of a doctoral student
+
+**Patents**
+* US 20230096633 A1 - ?Optimized tree ensemble based demand model? (L. Thayaparan, K. Panchamgam, S. Borjian, G. Perakis) Invention disclosure filed September 2021
+
+
 ## Professional Experience 
 **General Motors**, February 2019 - August 2019 \\
 Intern
