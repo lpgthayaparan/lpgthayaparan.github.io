@@ -63,7 +63,7 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * Co-wrote research proposal for industry collaborator Oracle Retail, submitted to the External Research Office, which reviews grants and makes funding decisions. Received funding for two years of a doctoral student
 
 **Patents**
-* US 20230096633 A1 - ?Optimized tree ensemble based demand model? (L. Thayaparan, K. Panchamgam, S. Borjian, G. Perakis) Invention disclosure filed September 2021
+* US 20230096633 A1 - "Optimized tree ensemble based demand model" (L. Thayaparan, K. Panchamgam, S. Borjian, G. Perakis) Invention disclosure filed September 2021
 
 
 ## Professional Experience 
@@ -82,4 +82,9 @@ Senior Analytics Fellow
 * Helped companies expand their analytical toolkits by advising on development of data science capabilities 
 * Designed and implemented new analytical hire training for McKinsey's Operations Advanced Analytics practice
  
+ ## Professional Service
+* Coordinator for the MIT ORC Seminar series (Fall 2022)
+* Coordinator for the ORC Student Seminar series (2021-2022)
+* President of the INFORMS student chapter at MIT (2019 - 2020) 
+
 
