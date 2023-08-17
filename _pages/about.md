@@ -82,7 +82,7 @@ Senior Analytics Fellow
 * Helped companies expand their analytical toolkits by advising on development of data science capabilities 
 * Designed and implemented new analytical hire training for McKinsey's Operations Advanced Analytics practice
  
- ## Professional Service
+## Professional Service 
 * Coordinator for the MIT ORC Seminar series (Fall 2022)
 * Coordinator for the ORC Student Seminar series (2021-2022)
 * President of the INFORMS student chapter at MIT (2019 - 2020) 
