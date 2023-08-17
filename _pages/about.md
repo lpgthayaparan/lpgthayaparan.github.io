@@ -23,14 +23,14 @@ My interests include:
 \*Names of authors in publications are listed by alphabetical order
 
 * Georgia Perakis and Leann Thayaparan (2023). "The role of electric vehicle driver behavior in moving to zero emissions." soon to be submitted to *Operations Research*.
-* Georgia Perakis (MIT), Leann Thayaparan (MIT), Setareh Boroujeni (Oracle Retail Business Unit), Kiran Panchamgam (Oracle Retail Business Unit), and Rebecca Schubertruegmer (Oracle Retail Business Unit) (2023). [UMOTEM: Upper bounding
+* Georgia Perakis (MIT), Leann Thayaparan (MIT),� and collaborators from Oracle Retail Business Unit (2023). [UMOTEM: Upper bounding
 method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341). under review at *Management Science*.
 * Mohammed Amine Bennouna, David Alexandre Nze Ndong, Georgia Perakis, Divya Singhvi, Omar Skali Lami, Ioannis Spantidakis, Leann Thayaparan, and Asterios Tsiourvas (2023). [COVID-19: Prediction, Prevalence, and the Operations of Vaccine Allocation](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.1160). *Manufacturing & Service Operations Management* 25.3: 1013-1032.
 * Lennart Baardman, Rares Cristian, Georgia Perakis, Divya Singhvi, Omar Skali Lami, and Leann Thayaparan (2022). [The Role of Optimization in Some Recent Advances in Data-Driven Decision-Making](https://link.springer.com/article/10.1007/s10107-022-01874-9). *Mathematical Programming*: 1-35.
 * Georgia Perakis, Divya Singhvi, Omar Skali Lami, and Leann Thayaparan (2022). [COVID-19: A multiwave SIR-based model for learning waves](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13681). Production and Operations Management.
 * Estee Y Cramer, Evan L Ray, Velma K Lopez, Johannes Bracher, Andrea Brennen, Alvaro J Castro Rivadeneira, Aaron Gerding, Tilmann Gneiting, Katie H House, Yuxin Huang, Leann Thayaparan, and others (2022). [Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US](`). *Proceedings of the National Academy of Sciences* 119.15.
-* Bennouna, Mohammed Amine, David Alexandre Nze Ndong, Georgia Perakis, Divya Singhvi, Omar Skali Lami, Ioannis Spantidakis, Leann Thayaparan, and Asterios Tsiourvas (2021). "The Power of Analytics in Epidemiology for COVID 19." *INFORMS International Conference on Service Science*. Springer, Cham.
 * Tamar Cohen-Hillel, Georgia Perakis, Ionnis Spantidakis, and Leann Thayaparan (2022). The SAFE Method for Feature Reduction and Prediction. soon to be submitted to *Journal of Machine Learning*.
+* Bennouna, Mohammed Amine, David Alexandre Nze Ndong, Georgia Perakis, Divya Singhvi, Omar Skali Lami, Ioannis Spantidakis, Leann Thayaparan, and Asterios Tsiourvas (2021). "The Power of Analytics in Epidemiology for COVID 19." *INFORMS International Conference on Service Science*. Springer, Cham.
 * Leann Thayaparan (2016). [An Analysis of Television Show Viewership Growth through SIR Virus Models](https://dataspace.princeton.edu/handle/88435/dsp01fq977x201).
 
 ## Honors
@@ -51,11 +51,11 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * EMBA tutor, Spring 2023
 
 15.089 Analytics Capstone for Masters of Business Analytics
-* PhD Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2021, project title: *Electric Vehicle as an Energy Reservoir: Vehicle-to-Grid (V2G)*
-* PhD Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Enabling Electric Vehicle Adoption: Identifying Charging Station Malfunctions*
-* PhD Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Personalized Marketing Strategies for OnStar Customers*
-* PhD Advisor to Masters' Capstone Project in collaboration with Wayfair, Spring/Summer 2023, project title: *Improving Trained Model Calibration through Machine Learning*
-* PhD Advisor to Masters' Capstone Project in collaboration with Macy's, Spring/Summer 2023, project title: *I'm Just Browsing: Predicting the Value of Prospective Customers*
+* Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2021, project title: *Electric Vehicle as an Energy Reservoir: Vehicle-to-Grid (V2G)*
+* Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Enabling Electric Vehicle Adoption: Identifying Charging Station Malfunctions*
+* Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Personalized Marketing Strategies for OnStar Customers*
+* Advisor to Masters' Capstone Project in collaboration with Wayfair, Spring/Summer 2023, project title: *Improving Trained Model Calibration through Machine Learning*
+* Advisor to Masters' Capstone Project in collaboration with Macy's, Spring/Summer 2023, project title: *I'm Just Browsing: Predicting the Value of Prospective Customers*
 
 ## Professional Experience 
 **General Motors**, February 2019 - August 2019 \\
