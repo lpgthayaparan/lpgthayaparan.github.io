@@ -23,7 +23,7 @@ My interests include:
 \*Names of authors in publications are listed by alphabetical order
 
 * Georgia Perakis and Leann Thayaparan (2022). The role of electric vehicle driver behavior in moving to zero emissions. soon to be submitted to *Operations Research*.
-* Georgia Perakis (MIT), Leann Thayaparan (MIT), Setareh Boroujeni (Oracle Retail Business Unit), Kiran Panchamgam (Oracle Retail Business Unit), and Rebecca Schubertruegmer (Oracle Retail Business Unit) (2022). [UMOTEM: Upper bounding
+* Georgia Perakis (MIT),�Leann Thayaparan (MIT), Setareh Boroujeni (Oracle Retail Business Unit), Kiran Panchamgam (Oracle Retail Business Unit), and Rebecca Schubertruegmer (Oracle Retail Business Unit) (2022). [UMOTEM: Upper bounding
 method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341). under review at *Management Science*.
 * Lennart Baardman, Rares Cristian, Georgia Perakis, Divya Singhvi, Omar Skali Lami, and Leann Thayaparan (2022). [The Role of Optimization in Some Recent Advances in Data-Driven Decision-Making](https://link.springer.com/article/10.1007/s10107-022-01874-9). *Mathematical Programming*: 1-35.
 * Georgia Perakis, Divya Singhvi, Omar Skali Lami, and Leann Thayaparan (2022). [COVID-19: A multiwave SIR-based model for learning waves](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13681). *Production and Operations Management*.
