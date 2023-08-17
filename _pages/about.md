@@ -54,7 +54,7 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2021, project title: *Electric Vehicle as an Energy Reservoir: Vehicle-to-Grid (V2G)*
 * Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Enabling Electric Vehicle Adoption: Identifying Charging Station Malfunctions*
 * Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Personalized Marketing Strategies for OnStar Customers*
-* Advisor to Masters' Capstone Project in collaboration with Wayfair, Spring/Summer 2023, project title: *Improving Trained Model Calibration through Machine Learning*
+* Advisor to Masters' Capstone Project in collaboration with Wayfair, Spring/Summer 2023, project title: *Beyond the Match: Enhancing Product Matching with Model Calibration*
 * Advisor to Masters' Capstone Project in collaboration with Macy's, Spring/Summer 2023, project title: *I'm Just Browsing: Predicting the Value of Prospective Customers*
 
 ## Grants and Patents
@@ -71,6 +71,11 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 Intern
 * Aggregated raw driver data into an intuitive and robust ``congestion score'' to track traffic flow in real time
 * Built an ensemble forecasting model to predict traffic congestion a day, hour and ten minutes in advance to help General Motors drivers avoid traffic flares
+
+**Accenture / Morningstar**, September 2018 - December 2018 \\
+Project on financial impact of innovation in asset management
+* Analyzed 26 asset management firms investment in emerging technology based on 8 years of Factiva media data 
+* Modeled relationship between investment in emerging technology and financial growth to find if innovative cultures affect performance; determined no predictive relationship
 
 **McKinsey Company**, September 2016 - May 2018 \\
 Senior Analytics Fellow
