@@ -45,17 +45,17 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 
 ## Teaching Experience
 15.730 Data, Models, and Decisions for Executive MBAs
-* Teaching Assistant, Spring 2021, Rating: 6.5/7 
-* Teaching Assistant, Spring 2022, Rating: 6.6/7 
-* Material Development, Spring 2023
 * EMBA tutor, Spring 2023
+* Material Development, Spring 2023
+* Teaching Assistant, Spring 2022, Rating: 6.6/7 
+* Teaching Assistant, Spring 2021, Rating: 6.5/7 
 
 15.089 Analytics Capstone for Masters of Business Analytics
-* Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2021, project title: *Electric Vehicle as an Energy Reservoir: Vehicle-to-Grid (V2G)*
-* Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Enabling Electric Vehicle Adoption: Identifying Charging Station Malfunctions*
-* Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Personalized Marketing Strategies for OnStar Customers*
-* Advisor to Masters' Capstone Project in collaboration with Wayfair, Spring/Summer 2023, project title: *Beyond the Match: Enhancing Product Matching with Model Calibration*
 * Advisor to Masters' Capstone Project in collaboration with Macy's, Spring/Summer 2023, project title: *I'm Just Browsing: Predicting the Value of Prospective Customers*
+* Advisor to Masters' Capstone Project in collaboration with Wayfair, Spring/Summer 2023, project title: *Beyond the Match: Enhancing Product Matching with Model Calibration*
+* Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Personalized Marketing Strategies for OnStar Customers*
+* Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2022, project title: *Enabling Electric Vehicle Adoption: Identifying Charging Station Malfunctions*
+* Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2021, project title: *Electric Vehicle as an Energy Reservoir: Vehicle-to-Grid (V2G)*
 
 ## Grants and Patents
 **Industry Collaborations and Grants**
