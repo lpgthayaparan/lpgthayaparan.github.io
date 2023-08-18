@@ -65,6 +65,24 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 **Patents**
 * US 20230096633 A1 - "Optimized tree ensemble based demand model" (L. Thayaparan, K. Panchamgam, S. Borjian, G. Perakis) Invention disclosure filed September 2021
 
+## Collaborators 
+**General Motors**
+* Sized capacity of electric vehicles to act as distributed battery storage for the electric grid using V2X
+* Estimated potential monetary and carbon emissions impact of the General Motors fleet engaging in V2X
+* Forecasted traffic congestion using real time driver data streams
+
+**Oracle**
+* Optimized promotion markdowns on fashion data when demand forecasts are from a random forest
+
+**Zara**
+* Improved fast fashion forecasts for new products that do not have historical data 
+
+**CDC**
+* Modeled COVID-19 cases and deaths up to four weeks out at national and state level for CDC aggregated forecasts
+
+**MIT Quest for Intelligence**
+* Estimated county-level true prevalence of COVID-19 cases to assist in MIT's reopening strategy
+
 
 ## Professional Experience 
 **General Motors**, February 2019 - August 2019 \\
