@@ -6,7 +6,7 @@ excerpt: '
 [Full paper can be found here](https://link.springer.com/chapter/10.1007/978-3-030-90275-9_21)'
 venue: 'INFORMS International Conference on Service Science'
 date: 2021-11-12
-citation: 'Bennouna, A., Nze-Ndong, D., Perakis, G., Singhvi, D., Lami, O. S., Spantidakis, Y., Thayaparan, L., Tsiourvas, A., & Weisberg, S. (2022). COVID-19: Prediction, prevalence, and the operations of vaccine allocation. Manufacturing & Service Operations Management.'
+citation: 'Bennouna, A., Nze-Ndong, D., Perakis, G., Singhvi, D., Lami, O. S., Spantidakis, Y., Thayaparan, L., Tsiourvas, A., & Weisberg, S. (2022). COVID-19: Prediction, prevalence, and the operations of vaccine allocation. In: Qiu, R., Lyons, K., Chen, W. (eds) AI and Analytics for Smart Cities and Service Systems. ICSS 2021. Lecture Notes in Operations Research. Springer, Cham. https://doi.org/10.1007/978-3-030-90275-9_21'
 ---
 [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-90275-9_21)
 
