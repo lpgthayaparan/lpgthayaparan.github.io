@@ -31,7 +31,7 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * Georgia Perakis, Divya Singhvi, Omar Skali Lami, and Leann Thayaparan (2022). [COVID-19: A multiwave SIR-based model for learning waves](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13681). Production and Operations Management.
 * Estee Y Cramer, Evan L Ray, Velma K Lopez, Johannes Bracher, Andrea Brennen, Alvaro J Castro Rivadeneira, Aaron Gerding, Tilmann Gneiting, Katie H House, Yuxin Huang, Leann Thayaparan, and others (2022). [Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US](`). *Proceedings of the National Academy of Sciences* 119.15.
 * Tamar Cohen-Hillel, Georgia Perakis, Ionnis Spantidakis, and Leann Thayaparan (2022). The SAFE Method for Feature Reduction and Prediction. soon to be submitted to *Journal of Machine Learning*.
-* Bennouna, Mohammed Amine, David Alexandre Nze Ndong, Georgia Perakis, Divya Singhvi, Omar Skali Lami, Ioannis Spantidakis, Leann Thayaparan, and Asterios Tsiourvas (2021). "The Power of Analytics in Epidemiology for COVID 19." *INFORMS International Conference on Service Science*. Springer, Cham.
+* Bennouna, Mohammed Amine, David Alexandre Nze Ndong, Georgia Perakis, Divya Singhvi, Omar Skali Lami, Ioannis Spantidakis, Leann Thayaparan, Asterios Tsiourvas, and Shane Weisberg (2021). "The Power of Analytics in Epidemiology for COVID 19." *INFORMS International Conference on Service Science*. Springer, Cham.
 * Leann Thayaparan (2016). [An Analysis of Television Show Viewership Growth through SIR Virus Models](https://dataspace.princeton.edu/handle/88435/dsp01fq977x201).
 
 ## Honors
