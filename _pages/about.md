@@ -22,6 +22,7 @@ My interests include:
 
 \*Names of authors in publications are listed by alphabetical order
 
+* Georgia Perakis and Leann Thayaparan (2023). "Robust Predict and Optimize Solutions for Tree Ensemble Objectives." work in progress.
 * Georgia Perakis and Leann Thayaparan and collaborators from General Motors (2023). "The role of electric vehicle driver behavior in moving to zero emissions." soon to be submitted to *Operations Research*.
 * Georgia Perakis (MIT), Leann Thayaparan (MIT), and collaborators from Oracle Retail Business Unit (2023). [UMOTEM: Upper bounding
 method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341). under review at *Management Science*.
