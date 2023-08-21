@@ -96,7 +96,7 @@ Project on financial impact of innovation in asset management
 * Analyzed 26 asset management firms investment in emerging technology based on 8 years of Factiva media data 
 * Modeled relationship between investment in emerging technology and financial growth to find if innovative cultures affect performance; determined no predictive relationship
 
-**McKinsey \& Company**, September 2016 - May 2018 \\
+**McKinsey & Company**, September 2016 - May 2018 \\
 Senior Analytics Fellow
 * Helped companies expand their analytical toolkits by advising on development of data science capabilities 
 * Designed and implemented new analytical hire training for McKinsey's Operations Advanced Analytics practice
