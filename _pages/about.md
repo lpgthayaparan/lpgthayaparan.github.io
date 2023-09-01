@@ -22,9 +22,9 @@ My interests include:
 
 \*Names of authors in publications are listed by alphabetical order
 
-* Georgia Perakis and Leann Thayaparan and collaborators from General Motors (2023). "The (Battery) Price is Right: Modelling the price/capacity trade off for stationary storage." work in progress.
-* Georgia Perakis and Leann Thayaparan (2023). "Robust Predict and Optimize Solutions for Tree Ensemble Objectives." work in progress.
-* Georgia Perakis and Leann Thayaparan and collaborators from General Motors (2023). "The role of electric vehicle driver behavior in moving to zero emissions." under review at *Operations Research*.
+* Georgia Perakis and Leann Thayaparan and collaborators from General Motors (2023). The (Battery) Price is Right: Modelling the price/capacity trade off for stationary storage. work in progress.
+* Georgia Perakis and Leann Thayaparan (2023). Robust Predict and Optimize Solutions for Tree Ensemble Objectives. work in progress.
+* Georgia Perakis and Leann Thayaparan and collaborators from General Motors (2023). The role of electric vehicle driver behavior in moving to zero emissions. under review at *Operations Research*.
 * Georgia Perakis (MIT), Leann Thayaparan (MIT), and collaborators from Oracle Retail Business Unit (2023). [UMOTEM: Upper bounding
 method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341). under review at *Management Science*.
 * Mohammed Amine Bennouna, David Alexandre Nze Ndong, Georgia Perakis, Divya Singhvi, Omar Skali Lami, Ioannis Spantidakis, Leann Thayaparan, and Asterios Tsiourvas (2023). [COVID-19: Prediction, Prevalence, and the Operations of Vaccine Allocation](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.1160). *Manufacturing & Service Operations Management* 25.3: 1013-1032.
