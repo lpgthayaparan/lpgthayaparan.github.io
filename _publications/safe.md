@@ -3,7 +3,7 @@ title: "The SAFE Method for Feature Reduction and Prediction"
 collection: publications
 permalink: /publication/safe
 excerpt: ''
-date: 2023-01-01
+date: 2022-01-01
 venue: 'soon to be submitted to Journal of Machine Learning'
 citation: 'Cohen-Hillel T., Perakis G., Spantidakis I., and Thayaparan L. (2022). The SAFE Method for Feature Reduction and Prediction. soon to be submitted to Journal of Machine Learning'
 ---

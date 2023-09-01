@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/umotem
 excerpt: '
 [Full paper can be found here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341)
+* 2023 - Finalist of the MSOM Student Paper Competition
 
 * 2023 - ORC Best Student Paper Award 
 
@@ -11,8 +12,8 @@ excerpt: '
 
 * 2022 - Finalist, RMP Jeff McGill Student Paper Award
 '
-venue: 'submitted to Management Science'
-date: 2022-12-16
+venue: 'under review at Management Science'
+date: 2023-01-01
 citation: 'Perakis, G., Thayaparan L., Boroujeni S., Panchamgam K., and Schubertruegmer R. (2022). UMOTEM: Upper Bounding Method for Optimizing over Tree Ensemble Models. submitted to Management Science'
 ---
 [Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341)
