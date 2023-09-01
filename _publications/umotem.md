@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/umotem
 excerpt: '
 [Full paper can be found here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341)
+
 * 2023 - Finalist of the MSOM Student Paper Competition
 
 * 2023 - ORC Best Student Paper Award 
