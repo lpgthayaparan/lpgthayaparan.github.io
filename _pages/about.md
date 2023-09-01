@@ -22,8 +22,9 @@ My interests include:
 
 \*Names of authors in publications are listed by alphabetical order
 
+* Georgia Perakis and Leann Thayaparan and collaborators from General Motors (2023). "The (Battery) Price is Right: Modelling the price/capacity trade off for stationary storage." work in progress.
 * Georgia Perakis and Leann Thayaparan (2023). "Robust Predict and Optimize Solutions for Tree Ensemble Objectives." work in progress.
-* Georgia Perakis and Leann Thayaparan and collaborators from General Motors (2023). "The role of electric vehicle driver behavior in moving to zero emissions." soon to be submitted to *Operations Research*.
+* Georgia Perakis and Leann Thayaparan and collaborators from General Motors (2023). "The role of electric vehicle driver behavior in moving to zero emissions." under review at *Operations Research*.
 * Georgia Perakis (MIT), Leann Thayaparan (MIT), and collaborators from Oracle Retail Business Unit (2023). [UMOTEM: Upper bounding
 method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341). under review at *Management Science*.
 * Mohammed Amine Bennouna, David Alexandre Nze Ndong, Georgia Perakis, Divya Singhvi, Omar Skali Lami, Ioannis Spantidakis, Leann Thayaparan, and Asterios Tsiourvas (2023). [COVID-19: Prediction, Prevalence, and the Operations of Vaccine Allocation](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.1160). *Manufacturing & Service Operations Management* 25.3: 1013-1032.
@@ -35,6 +36,7 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * Leann Thayaparan (2016). [An Analysis of Television Show Viewership Growth through SIR Virus Models](https://dataspace.princeton.edu/handle/88435/dsp01fq977x201).
 
 ## Honors
+* Finalist of the MSOM Student Paper Competition 2023
 * ORC Best Student Paper Award 2023
 * Honorary Mention of the POMS College of SCM Best Student Paper Competition 2023
 * Finalist of the Jeff McGill Student Paper Award 2022
@@ -59,7 +61,7 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * Advisor to Masters' Capstone Project in collaboration with General Motors, Spring/Summer 2021, project title: *Electric Vehicle as an Energy Reservoir: Vehicle-to-Grid (V2G)*
 
 ## Grants and Patents
-**Industry Collaborations and Grants**
+**Grants**
 * Co-wrote research proposal for industry collaborator General Motors. Received funding for three years of a doctoral student and a masters student
 * Co-wrote research proposal for industry collaborator Oracle Retail, submitted to the External Research Office, which reviews grants and makes funding decisions. Received funding for two years of a doctoral student
 
@@ -73,7 +75,7 @@ method for optimizing over tree ensemble models](https://papers.ssrn.com/sol3/pa
 * Forecasted traffic congestion using real time driver data streams
 
 **Oracle**
-* Optimized promotion markdowns on fashion data when demand forecasts are from a random forest
+* Optimized markdowns on fashion data when demand forecasts are from a random forest
 
 **Zara**
 * Improved fast fashion forecasts for new products that do not have historical data 
