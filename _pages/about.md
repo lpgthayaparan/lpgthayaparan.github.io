@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am a final-year PhD at the Operations Research Center at MIT, working with Professor Georgia Perakis. My research focuses on the intersection of operations management, optimization and machine learning in the areas of sustainability and retail. I work on a variety of problems, focusing on consumer behavior as it relates to electric vehicles, pricing and COVID-19 forecasting
 
-**I am on the Fall 2023 Academic Job market!** I will be presenting at INFORMS 2023 during TD08: Digital Platforms: New Challenges and Directions on Tuesday, Oct 17, 2:15-3:30 PM. I will also be presenting at the MSOM Student Paper Competition Sessions at INFORMS. 
+**I am on the Fall 2023 Academic Job market!** I will be presenting at INFORMS 2023 during SB24: MSOM Student Paper Competition Session 2 on Sunday, Oct 15, 10:45-12:00 PM and TD08: Digital Platforms: New Challenges and Directions on Tuesday, Oct 17, 2:15-3:30 PM.
 
 Contact me: lpgt@mit.edu
 
