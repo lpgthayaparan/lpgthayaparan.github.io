@@ -14,7 +14,7 @@
   },
   {
     "category": "Published",
-    "year": 2026,
+    "year": 2022,
     "authors": "Baardman, L., Cristian, R., Perakis, G., Singhvi, D., Skali Lami, O., and Thayaparan, L.",
     "title": "The Role of Optimization in Some Recent Advances in Data-Driven Decision-Making",
     "venue": "Published at Mathematical Programming",
@@ -40,7 +40,7 @@
     "authors": "Cramer, E. Y., Ray, E., Lopez, V., Bracher, J., Brennen, A., Rivadeneira, A., Gerding, A., Gneiting, T., House, K., Huang, Y., Thayaparan, L., and others",
     "title": "Evaluation of Individual and Ensemble Probabilistic Forecasts of COVID-19 Mortality in the United States",
     "venue": "Published at Proceedings of the National Academy of Sciences",
-    "link": "",
+    "link": "https://www.pnas.org/doi/full/10.1073/pnas.2113561119",
     "awards": []
   },
   {
@@ -49,7 +49,7 @@
     "authors": "Perakis, G., Thayaparan, L., and Wang, S., collaborators from General Motors",
     "title": "The Role of Electric Vehicle Driver Behavior in Moving to Zero Emissions",
     "venue": "Major revision at Operations Research",
-    "link": "",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5160677",
     "awards": [
       "Second Place, POMS College of Sustainable Operations Student Paper Competition 2024"
     ]
@@ -74,7 +74,7 @@
     "authors": "Kaps, C., Palley, T., and Thayaparan, L.",
     "title": "Charging Fast and Slow: Quantifying the Real-Life Value of EV Charging for Users, OEMs, and the Grid",
     "venue": "Submitted to Management Science",
-    "link": "",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7094098",
     "awards": []
   },
   {
@@ -83,7 +83,7 @@
     "authors": "Deep, V., Sharma, N., and Thayaparan, L.",
     "title": "Scaling EV Access Through Responsible Enforcement in Asset-Backed Lending",
     "venue": "Submitted to Manufacturing and Service Operations Management",
-    "link": "",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6288498",
     "awards": []
   },
   {
