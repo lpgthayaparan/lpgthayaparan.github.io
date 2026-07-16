@@ -175,8 +175,10 @@ h2.section-title {
 .pub-year {
   font-weight: 700;
   color: var(--navy);
-  font-size: 1.05rem;
-  margin: 32px 0 14px;
+  font-size: 1.15rem;
+  margin: 40px 0 16px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
 }
 .pub-year:first-child { margin-top: 0; }
 
@@ -205,21 +207,36 @@ h2.section-title {
   font-style: italic;
 }
 
-.badge {
-  display: inline-block;
-  font-size: 0.72rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-  padding: 2px 8px;
-  border-radius: 10px;
-  margin-left: 8px;
-  vertical-align: middle;
+.pub-awards {
+  margin: 6px 0 0;
+  padding-left: 18px;
+  list-style: disc;
 }
-.badge.Published { background: #e6f4ea; color: #1e7b34; }
-.badge.Working.Paper, .badge.WorkingPaper { background: #eef1f6; color: var(--navy-light); }
-.badge.Under.Review, .badge.UnderReview { background: #fff4e0; color: #9a6a00; }
-.badge.RR { background: #eae6fb; color: #5b3ec7; }
+.pub-awards li {
+  font-size: 0.84rem;
+  color: var(--accent);
+  margin-bottom: 2px;
+}
+
+/* ---------- Awards ---------- */
+.award-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.award-list li {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.98rem;
+}
+.award-list li:last-child { border-bottom: none; }
+.award-year {
+  display: inline-block;
+  min-width: 52px;
+  font-weight: 700;
+  color: var(--navy);
+  margin-right: 6px;
+}
 
 /* ---------- CV ---------- */
 .cv-block { margin-bottom: 36px; }
@@ -228,6 +245,11 @@ h2.section-title {
 .cv-entry .cv-meta { color: var(--text-muted); font-size: 0.92rem; }
 .cv-entry ul { margin: 6px 0 0; padding-left: 20px; }
 .cv-entry li { margin-bottom: 3px; font-size: 0.95rem; }
+.cv-entry ul.cv-sublist li {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  margin-bottom: 2px;
+}
 
 /* ---------- Footer ---------- */
 footer {

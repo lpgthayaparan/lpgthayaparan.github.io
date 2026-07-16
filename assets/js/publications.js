@@ -1,10 +1,20 @@
-// Renders the publications list on publications.html from assets/data/publications.json.
+// Renders the publications list on publications.html from assets/data/publications.json,
+// split into "Published" and "Submitted and Work in Progress" sections (matching the CV).
+//
 // To add a new publication: open assets/data/publications.json and copy/paste a new
-// object into the array at the top, then fill in the fields. No need to touch this file.
+// object into the array, set "category" to "Published" or "Submitted", and fill in the
+// rest. Entries appear in the order they're listed within each category. No need to
+// touch this file.
 
 (function () {
   var listEl = document.getElementById("pub-list");
   if (!listEl) return;
+
+  var CATEGORY_ORDER = ["Published", "Submitted"];
+  var CATEGORY_LABELS = {
+    Published: "Published",
+    Submitted: "Submitted and Work in Progress"
+  };
 
   fetch("assets/data/publications.json")
     .then(function (res) {
@@ -17,43 +27,51 @@
     });
 
   function renderPublications(pubs) {
-    // Sort newest year first; preserve existing order within a year.
-    var byYear = {};
-    var years = [];
+    var byCategory = {};
     pubs.forEach(function (p) {
-      if (!byYear[p.year]) {
-        byYear[p.year] = [];
-        years.push(p.year);
-      }
-      byYear[p.year].push(p);
+      var cat = p.category || "Published";
+      if (!byCategory[cat]) byCategory[cat] = [];
+      byCategory[cat].push(p);
     });
-    years.sort(function (a, b) { return b - a; });
 
     var html = "";
-    years.forEach(function (year) {
-      html += '<div class="pub-year">' + year + "</div>";
-      byYear[year].forEach(function (p) {
-        var badgeClass = (p.status || "").replace(/\s+/g, ".");
+    CATEGORY_ORDER.forEach(function (cat) {
+      var entries = byCategory[cat];
+      if (!entries || !entries.length) return;
+
+      html += '<div class="pub-year">' + (CATEGORY_LABELS[cat] || cat) + "</div>";
+      entries.forEach(function (p, i) {
         var titleHtml = p.link
           ? '<a href="' + p.link + '" target="_blank" rel="noopener">' + escapeHtml(p.title) + "</a>"
           : escapeHtml(p.title);
 
+        var awardsHtml = "";
+        if (p.awards && p.awards.length) {
+          awardsHtml =
+            '<ul class="pub-awards">' +
+            p.awards.map(function (a) { return "<li>" + escapeHtml(a) + "</li>"; }).join("") +
+            "</ul>";
+        }
+
         html +=
           '<div class="pub-item">' +
-            '<p class="pub-title">' + titleHtml +
-              (p.status ? '<span class="badge ' + badgeClass + '">' + escapeHtml(p.status) + "</span>" : "") +
-            "</p>" +
-            '<p class="pub-authors">' + highlightMe(p.authors) + "</p>" +
+            '<p class="pub-title">' + (i + 1) + ". " + titleHtml + "</p>" +
+            '<p class="pub-authors">' + highlightMe(p.authors) + ", " + p.year + "</p>" +
             '<p class="pub-venue">' + escapeHtml(p.venue || "") + "</p>" +
+            awardsHtml +
           "</div>";
       });
+
+      // Reset numbering per category by wrapping in a fresh counter scope handled above.
     });
     listEl.innerHTML = html;
   }
 
   function highlightMe(authors) {
     var safe = escapeHtml(authors || "");
-    return safe.replace(/Leann Thayaparan/g, '<span class="me">Leann Thayaparan</span>');
+    return safe.replace(/Thayaparan, L\.|Leann Thayaparan/g, function (m) {
+      return '<span class="me">' + m + "</span>";
+    });
   }
 
   function escapeHtml(str) {

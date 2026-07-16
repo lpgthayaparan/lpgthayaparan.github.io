@@ -1,90 +1,107 @@
 [
   {
+    "category": "Published",
     "year": 2023,
-    "status": "Working Paper",
-    "authors": "Georgia Perakis, Leann Thayaparan, and collaborators from General Motors",
-    "title": "The (Battery) Price is Right: Modelling the Price/Capacity Trade-off for Stationary Storage",
-    "venue": "Work in progress",
-    "link": ""
+    "authors": "Bennouna, M. A., Nze-Ndong, D., Perakis, G., Singhvi, D., Skali Lami, O., Spantidakis, I., Thayaparan, L., and Tsiourvas, A.",
+    "title": "Machine Learning Ensemble Prevalence Predictions for COVID-19",
+    "venue": "Published at Manufacturing and Service Operations Management",
+    "link": "https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.1160",
+    "awards": [
+      "ICSS Best Conference Paper Award 2021 (INFORMS)",
+      "Finalist, Doing Good with Good OR Competition 2021 (INFORMS)",
+      "Finalist, Public Sector Operations Research Best Paper Competition 2021 (INFORMS)"
+    ]
   },
   {
-    "year": 2023,
-    "status": "Working Paper",
-    "authors": "Georgia Perakis and Leann Thayaparan",
+    "category": "Published",
+    "year": 2022,
+    "authors": "Baardman, L., Cristian, R., Perakis, G., Singhvi, D., Skali Lami, O., and Thayaparan, L.",
+    "title": "The Role of Optimization in Some Recent Advances in Data-Driven Decision-Making",
+    "venue": "Published at Mathematical Programming",
+    "link": "https://link.springer.com/article/10.1007/s10107-022-01874-9",
+    "awards": []
+  },
+  {
+    "category": "Published",
+    "year": 2022,
+    "authors": "Perakis, G., Singhvi, D., Skali Lami, O., and Thayaparan, L.",
+    "title": "COVID-19: A Multiwave SIR-Based Model for Learning Waves",
+    "venue": "Published at Production and Operations Management",
+    "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13681",
+    "awards": [
+      "Runner-up, Marshall Fisher Best Platforms Paper Award, POM Journal 2026",
+      "Second Place, Service Science Best Student Paper Award 2021 (INFORMS)",
+      "Accepted at the Healthcare Operations SIG Meeting 2021"
+    ]
+  },
+  {
+    "category": "Published",
+    "year": 2022,
+    "authors": "Cramer, E. Y., Ray, E., Lopez, V., Bracher, J., Brennen, A., Rivadeneira, A., Gerding, A., Gneiting, T., House, K., Huang, Y., Thayaparan, L., and others",
+    "title": "Evaluation of Individual and Ensemble Probabilistic Forecasts of COVID-19 Mortality in the United States",
+    "venue": "Published at Proceedings of the National Academy of Sciences",
+    "link": "",
+    "awards": []
+  },
+  {
+    "category": "Submitted",
+    "year": 2026,
+    "authors": "Perakis, G., Thayaparan, L., and Wang, S., collaborators from General Motors",
+    "title": "The Role of Electric Vehicle Driver Behavior in Moving to Zero Emissions",
+    "venue": "Major revision at Operations Research",
+    "link": "",
+    "awards": [
+      "Second Place, POMS College of Sustainable Operations Student Paper Competition 2024"
+    ]
+  },
+  {
+    "category": "Submitted",
+    "year": 2026,
+    "authors": "Perakis, G., Thayaparan, L., and Wang, S., collaborators from Oracle",
+    "title": "UMOTEM: Upper Bounding Method for Optimizing over Tree Ensemble Models",
+    "venue": "Major revision at Management Science",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341",
+    "awards": [
+      "Honorary Mention, MSOM Student Paper Competition 2023",
+      "ORC Best Student Paper 2023",
+      "Finalist, POMS College of Supply Chain Management Best Student Paper Competition 2023",
+      "Finalist, Jeff McGill Student Paper Award 2022 (INFORMS)"
+    ]
+  },
+  {
+    "category": "Submitted",
+    "year": 2026,
+    "authors": "Kaps, C., Palley, T., and Thayaparan, L.",
+    "title": "Charging Fast and Slow: Quantifying the Real-Life Value of EV Charging for Users, OEMs, and the Grid",
+    "venue": "Submitted to Management Science",
+    "link": "",
+    "awards": []
+  },
+  {
+    "category": "Submitted",
+    "year": 2026,
+    "authors": "Deep, V., Sharma, N., and Thayaparan, L.",
+    "title": "Scaling EV Access Through Responsible Enforcement in Asset-Backed Lending",
+    "venue": "Submitted to Manufacturing and Service Operations Management",
+    "link": "",
+    "awards": []
+  },
+  {
+    "category": "Submitted",
+    "year": 2026,
+    "authors": "Sharma, N., and Thayaparan, L.",
+    "title": "Modeling Borrower Intent: Optimizing Commercial EV Loan Management with Driver Data",
+    "venue": "Work in progress",
+    "link": "",
+    "awards": []
+  },
+  {
+    "category": "Submitted",
+    "year": 2026,
+    "authors": "Perakis, G., Thayaparan, L., and Wang, S.",
     "title": "Robust Predict and Optimize Solutions for Tree Ensemble Objectives",
     "venue": "Work in progress",
-    "link": ""
-  },
-  {
-    "year": 2023,
-    "status": "Under Review",
-    "authors": "Georgia Perakis, Leann Thayaparan, and collaborators from General Motors",
-    "title": "The Role of Electric Vehicle Driver Behavior in Moving to Zero Emissions",
-    "venue": "Under review at Operations Research",
-    "link": ""
-  },
-  {
-    "year": 2023,
-    "status": "R&R",
-    "authors": "Georgia Perakis, Leann Thayaparan, and collaborators from Oracle Retail Business Unit",
-    "title": "UMOTEM: Upper Bounding Method for Optimizing over Tree Ensemble Models",
-    "venue": "R&R at Management Science",
-    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972341"
-  },
-  {
-    "year": 2023,
-    "status": "Published",
-    "authors": "Mohammed Amine Bennouna, David Alexandre Nze Ndong, Georgia Perakis, Divya Singhvi, Omar Skali Lami, Ioannis Spantidakis, Leann Thayaparan, and Asterios Tsiourvas",
-    "title": "COVID-19: Prediction, Prevalence, and the Operations of Vaccine Allocation",
-    "venue": "Manufacturing & Service Operations Management, 25(3): 1013–1032",
-    "link": "https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.1160"
-  },
-  {
-    "year": 2022,
-    "status": "Published",
-    "authors": "Lennart Baardman, Rares Cristian, Georgia Perakis, Divya Singhvi, Omar Skali Lami, and Leann Thayaparan",
-    "title": "The Role of Optimization in Some Recent Advances in Data-Driven Decision-Making",
-    "venue": "Mathematical Programming, 1–35",
-    "link": "https://link.springer.com/article/10.1007/s10107-022-01874-9"
-  },
-  {
-    "year": 2022,
-    "status": "Published",
-    "authors": "Georgia Perakis, Divya Singhvi, Omar Skali Lami, and Leann Thayaparan",
-    "title": "COVID-19: A Multiwave SIR-Based Model for Learning Waves",
-    "venue": "Production and Operations Management",
-    "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13681"
-  },
-  {
-    "year": 2022,
-    "status": "Published",
-    "authors": "Estee Y. Cramer, Evan L. Ray, Velma K. Lopez, Johannes Bracher, Andrea Brennen, Alvaro J. Castro Rivadeneira, Aaron Gerding, Tilmann Gneiting, Katie H. House, Yuxin Huang, Leann Thayaparan, and others",
-    "title": "Evaluation of Individual and Ensemble Probabilistic Forecasts of COVID-19 Mortality in the US",
-    "venue": "Proceedings of the National Academy of Sciences, 119(15)",
-    "link": ""
-  },
-  {
-    "year": 2022,
-    "status": "Working Paper",
-    "authors": "Tamar Cohen-Hillel, Georgia Perakis, Ioannis Spantidakis, and Leann Thayaparan",
-    "title": "The SAFE Method for Feature Reduction and Prediction",
-    "venue": "Soon to be submitted to Journal of Machine Learning",
-    "link": ""
-  },
-  {
-    "year": 2021,
-    "status": "Published",
-    "authors": "Mohammed Amine Bennouna, David Alexandre Nze Ndong, Georgia Perakis, Divya Singhvi, Omar Skali Lami, Ioannis Spantidakis, Leann Thayaparan, Asterios Tsiourvas, and Shane Weisberg",
-    "title": "The Power of Analytics in Epidemiology for COVID-19",
-    "venue": "INFORMS International Conference on Service Science, Springer, Cham",
-    "link": "https://link.springer.com/chapter/10.1007/978-3-030-90275-9_21"
-  },
-  {
-    "year": 2016,
-    "status": "Published",
-    "authors": "Leann Thayaparan",
-    "title": "An Analysis of Television Show Viewership Growth through SIR Virus Models",
-    "venue": "Undergraduate Thesis, Princeton University",
-    "link": "https://dataspace.princeton.edu/handle/88435/dsp01fq977x201"
+    "link": "",
+    "awards": []
   }
 ]

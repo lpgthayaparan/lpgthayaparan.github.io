@@ -5,15 +5,23 @@ to GitHub Pages by just pushing files.
 
 ## Structure
 
+Site nav is Home / Research / Awards / CV:
+
 ```
-index.html                     About / homepage
-publications.html              Publications list (auto-rendered from JSON)
-cv.html                        CV
+index.html                     Home (bio, research interests)
+publications.html              Research page (Published / Submitted & WIP, from JSON)
+awards.html                    Honors & Awards
+cv.html                        Full CV (positions, education, teaching, service,
+                                grants & patents, experience, talks, presentations)
 assets/css/style.css           All styling
-assets/js/publications.js      Renders publications.html from the JSON below
+assets/js/publications.js      Renders the Research page from the JSON below
 assets/data/publications.json  Publications data — edit this to add a paper
 assets/images/                 Put your profile photo here
 ```
+
+Note: the Research page's file is still named `publications.html` and its script is
+`publications.js` — only the nav label and on-page heading say "Research." Rename them
+if you'd like the filenames to match; nothing else depends on it.
 
 ## Common updates
 
@@ -22,18 +30,22 @@ then edit the fields:
 
 ```json
 {
+  "category": "Published",
   "year": 2024,
-  "status": "Published",
-  "authors": "Leann Thayaparan and Co-author Name",
+  "authors": "Last, F., Thayaparan, L., and Co-author, X.",
   "title": "Paper Title",
-  "venue": "Journal Name, volume(issue): pages",
-  "link": "https://link-to-paper.com"
+  "venue": "Published at Journal Name",
+  "link": "https://link-to-paper.com",
+  "awards": []
 }
 ```
 
-`status` can be `"Published"`, `"Working Paper"`, `"Under Review"`, or `"R&R"` — each gets
-a colored badge automatically. Leave `"link"` as `""` if there isn't one yet. Save the
-file and refresh the page — no other changes needed.
+`category` must be exactly `"Published"` or `"Submitted"` — the page automatically
+splits entries into a "Published" section and a "Submitted and Work in Progress"
+section (matching your CV), in the order they appear in the file within each category.
+`awards` is optional — add short strings for any paper-specific honors and they'll show
+as a small bulleted list under the entry, or leave it as `[]`. Leave `"link"` as `""` if
+there isn't one yet. Save the file and refresh the page — no other changes needed.
 
 **Add your photo.** Save a square photo to `assets/images/profile.jpg`, then in
 `index.html` find the placeholder `<div class="hero-photo placeholder">LT</div>` and
@@ -42,18 +54,29 @@ replace it with:
 <img class="hero-photo" src="assets/images/profile.jpg" alt="Leann Thayaparan">
 ```
 
-**Edit the About text, Honors, or CV.** These are plain text inside `index.html` and
-`cv.html` — open the file, find the section, and edit the text directly. Each entry is
-a `<li>...</li>` line; copy an existing one to add a new item.
+**Edit the About text, Awards, or CV.** These are plain text inside `index.html`,
+`awards.html`, and `cv.html` — open the file, find the section, and edit the text
+directly. Each entry is a `<li>...</li>` line; copy an existing one to add a new item.
 
 **Change colors.** Open `assets/css/style.css` and edit the values at the top under
 `:root` (`--navy`, `--accent`, etc.).
 
-## One item to double-check
+## A few items to double-check
 
-The PNAS entry ("Evaluation of Individual and Ensemble Probabilistic Forecasts of
-COVID-19 Mortality in the US") had a broken link on the old site — I left `link` blank
-in `publications.json`. Add the correct DOI/URL when you have it.
+Publications data now matches your July 2026 CV (4 published, 6 submitted/in progress).
+A couple of things worth a glance:
+
+- The PNAS entry ("Evaluation of Individual and Ensemble Probabilistic Forecasts of
+  COVID-19 Mortality in the US") still has no link — add the DOI when you have it.
+- The Bennouna et al. MSOM link points to the DOI for what was previously titled
+  "COVID-19: Prediction, Prevalence, and the Operations of Vaccine Allocation" — your CV
+  now lists it as "Machine Learning Ensemble Prevalence Predictions for COVID-19."
+  Worth confirming it's the same DOI before publishing.
+- The UMOTEM entry still links to the SSRN preprint — swap it for the journal link once
+  it's out of major revision.
+
+Awards, CV (positions, education, teaching, service, grants/patents, experience,
+invited talks, conference presentations) are all synced to your July 2026 CV.
 
 ## Deploying to GitHub Pages
 
