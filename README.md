@@ -11,8 +11,8 @@ Site nav is Home / Research / Awards / CV:
 index.html                     Home (bio, research interests)
 publications.html              Research page (Published / Submitted & WIP, from JSON)
 awards.html                    Honors & Awards
-cv.html                        Full CV (positions, education, teaching, service,
-                                grants & patents, experience, talks, presentations)
+cv.html                        CV page — download button + embedded PDF viewer
+assets/cv/CV.pdf               Your actual CV file, shown on the CV page
 assets/css/style.css           All styling
 assets/js/publications.js      Renders the Research page from the JSON below
 assets/data/publications.json  Publications data — edit this to add a paper
@@ -54,9 +54,13 @@ replace it with:
 <img class="hero-photo" src="assets/images/profile.jpg" alt="Leann Thayaparan">
 ```
 
-**Edit the About text, Awards, or CV.** These are plain text inside `index.html`,
-`awards.html`, and `cv.html` — open the file, find the section, and edit the text
-directly. Each entry is a `<li>...</li>` line; copy an existing one to add a new item.
+**Update your CV.** Replace `assets/cv/CV.pdf` with your latest CV, keeping the same
+filename — the download button and embedded viewer on the CV page will pick it up
+automatically, no HTML changes needed.
+
+**Edit the About text or Awards.** These are plain text inside `index.html` and
+`awards.html` — open the file, find the section, and edit the text directly. Each entry
+is a `<li>...</li>` line; copy an existing one to add a new item.
 
 **Change colors.** Open `assets/css/style.css` and edit the values at the top under
 `:root` (`--navy`, `--accent`, etc.).
@@ -75,8 +79,8 @@ A couple of things worth a glance:
 - The UMOTEM entry still links to the SSRN preprint — swap it for the journal link once
   it's out of major revision.
 
-Awards, CV (positions, education, teaching, service, grants/patents, experience,
-invited talks, conference presentations) are all synced to your July 2026 CV.
+Awards page is synced to your July 2026 CV. The CV page now just shows/downloads the PDF
+directly, so it's always exactly your CV — no separate content to keep in sync.
 
 ## Deploying to GitHub Pages
 
