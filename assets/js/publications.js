@@ -1,9 +1,10 @@
 // Renders the publications list on publications.html from assets/data/publications.json,
-// split into "Published" and "Submitted and Work in Progress" sections (matching the CV).
+// split into "Published" and "Submitted and Work in Progress" sections (matching the CV),
+// with entries inside each section sorted by year (most recent first).
 //
 // To add a new publication: open assets/data/publications.json and copy/paste a new
 // object into the array, set "category" to "Published" or "Submitted", and fill in the
-// rest. Entries appear in the order they're listed within each category. No need to
+// rest. It will automatically slot into the right section and year order. No need to
 // touch this file.
 
 (function () {
@@ -39,6 +40,9 @@
       var entries = byCategory[cat];
       if (!entries || !entries.length) return;
 
+      // Most recent year first; ties keep their original relative order.
+      entries.sort(function (a, b) { return (b.year || 0) - (a.year || 0); });
+
       html += '<div class="pub-year">' + (CATEGORY_LABELS[cat] || cat) + "</div>";
       entries.forEach(function (p, i) {
         var titleHtml = p.link
@@ -61,8 +65,6 @@
             awardsHtml +
           "</div>";
       });
-
-      // Reset numbering per category by wrapping in a fresh counter scope handled above.
     });
     listEl.innerHTML = html;
   }
